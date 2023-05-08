@@ -1,0 +1,6 @@
+gdown==4.6.4
+google_api_python_client==2.86.0
+google_auth_oauthlib==0.5.3
+pandas==1.5.3
+protobuf==4.22.4
+streamlit==1.8.0
