@@ -4,4 +4,3 @@ google_auth_oauthlib==0.5.3
 pandas==1.5.3
 protobuf==3.20.0
 streamlit==1.8.0
-protobuf==3.20
