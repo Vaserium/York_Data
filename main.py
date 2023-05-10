@@ -3,7 +3,6 @@ import io
 from zipfile import ZipFile
 import pandas as pd
 import streamlit as st
-import pandas as pd
 import os
 
 st.set_page_config(page_title='York Archive', layout="wide")
